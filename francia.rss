@@ -1,8 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss>
+<rss version="2.0">
 	<channel>
+	<title>Francia</title>
+	<description>Noticias de Francia</description>
+	<link></link>
+	
 		<item>
-			<title></title>
+			
+	<title>Noticia 1</title>
+	<description></description>
+	<link></link>
+	
+	<title>Noticia 2</title>
+	<description></description>
+	<link></link>
+	
+	<title>Noticia 3</title>
+	<description></description>
+	<link></link>
+	
+	<title>Noticia 4</title>
+	<description></description>
+	<link></link>
+	
+	<title>Noticia 5</title>
+	<description></description>
+	<link></link>
+	
+	
 		</item>
 	</channel>
 </rss>
