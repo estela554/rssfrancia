@@ -6,28 +6,31 @@
 	<link></link>
 	
 		<item>
-			
 	<title>Noticia 1</title>
 	<description></description>
 	<link></link>
-	
+	</item>
+	<item>
 	<title>Noticia 2</title>
 	<description></description>
 	<link></link>
-	
+	</item>
+	<item>
 	<title>Noticia 3</title>
 	<description></description>
 	<link></link>
-	
+	</item>
+	<item>
 	<title>Noticia 4</title>
 	<description></description>
 	<link></link>
-	
+	</item>
+	<item>
 	<title>Noticia 5</title>
 	<description></description>
 	<link></link>
+	</item>
 	
-	
-		</item>
+		
 	</channel>
 </rss>
